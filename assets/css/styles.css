@@ -366,7 +366,7 @@ img{
   display: flex;
   justify-content: center;
   text-align: center;
-  
+  padding: 20px;
 }
 
 
@@ -404,7 +404,6 @@ img{
 .div_footer{
   display: inline-block;
   text-align: center;
-  width: 100%;
   padding: 2px;
 }
 .div_inline{
